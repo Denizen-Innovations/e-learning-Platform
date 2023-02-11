@@ -1,3 +1,20 @@
+Application preview -
+
+<img width="1440" alt="Screenshot 2023-02-11 at 11 11 21 PM" src="https://user-images.githubusercontent.com/63660669/218272832-360dc366-7733-412d-8a79-8183892a21d4.png">
+
+<img width="1440" alt="Screenshot 2023-02-11 at 11 12 15 PM" src="https://user-images.githubusercontent.com/63660669/218272875-6de89763-9052-46d7-b9b6-8d63fc574866.png">
+
+<img width="1439" alt="Screenshot 2023-02-11 at 11 13 15 PM" src="https://user-images.githubusercontent.com/63660669/218272959-6e5a15e9-6701-4f85-a6e8-8ea804bd2edb.png">
+
+<img width="1440" alt="Screenshot 2023-02-11 at 11 13 33 PM" src="https://user-images.githubusercontent.com/63660669/218272962-f4b7e453-4823-4aa7-bb52-d60520afc3ea.png">
+
+<img width="1440" alt="Screenshot 2023-02-11 at 11 13 45 PM" src="https://user-images.githubusercontent.com/63660669/218272967-b05f19ca-2d6f-4e09-9967-19380b5c061a.png">
+
+<img width="1440" alt="Screenshot 2023-02-11 at 11 14 02 PM" src="https://user-images.githubusercontent.com/63660669/218272972-fa91fea3-842c-4575-9afb-dc489ba0c995.png">
+
+<img width="1440" alt="Screenshot 2023-02-11 at 11 14 38 PM" src="https://user-images.githubusercontent.com/63660669/218272979-cffe0410-0aa1-40b9-8851-446de02d27f2.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
